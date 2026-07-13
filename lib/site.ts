@@ -10,8 +10,8 @@ export const site = {
   tagline: "Sistem sokongan kesihatan mental paling mesra di Malaysia",
   description:
     "NGO Empati ialah sebuah pertubuhan advokasi kesihatan mental yang menyatukan survivor, belia dan komuniti melalui sokongan rakan sebaya, program kesedaran dan tindakan nyata.",
-  url: "https://ngoempati.org",
-  email: "hello@ngoempati.org",
+  url: "https://myempati.com",
+  email: "hello@myempati.com",
   phone: "+60 11-1234 5678",
   whatsapp: "60111234567",
   whatsappCommunity: "https://chat.whatsapp.com/", // TODO: pautan komuniti sebenar
