@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+.git
+.env.local
+.env*.local
+*.tsbuildinfo
+graphify-out
+scratchpad
+
+# Original source photos live in /public/images (already imported); ignore root copies
+/*.jpeg
